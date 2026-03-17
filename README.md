@@ -1,5 +1,5 @@
 #### Project Overview: 
-###### This "Strategic Retail & Consumer Insights" dashboard provides a comprehensive analysis of $233K in revenue across multiple product categories and seasons. The goal of this project was to transform raw retail data into an interactive decision-making tool for stakeholders.
+###### This "Retail Strategy & Consumer Insights" dashboard provides a comprehensive analysis of $233K in revenue across multiple product categories and seasons. The goal of this project was to transform raw retail data into an interactive decision-making tool for stakeholders.
 
 #### Key Findings:
 
